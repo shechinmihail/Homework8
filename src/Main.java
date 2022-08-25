@@ -68,7 +68,7 @@ public class Main {
 
         int deliveryDistance = 95;
         int deliveryDays = task3DeliverysDays(deliveryDistance);
-        System.out.println(deliveryDays);
+        System.out.println("Потребуется дней " + deliveryDays);
 
 
     }
